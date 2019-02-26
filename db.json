@@ -4,10 +4,38 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "projects": [
+      {
+        projectId: 1,
+        customerName: 'Dereje',
+        address1: '123 Street ABC',
+        address2: 'Silver Spring , MD',
+        date: '43059',
+        preparedBy: 'DTK',
+        jobNumber: '3010',
+        productionMeter: true
+      },
+      {
+        projectId: 2,
+        customerName: 'Winta',
+        address1: '124 Street ABC',
+        address2: 'Silver Spring , MD',
+        date: '43059',
+        preparedBy: 'AAA',
+        jobNumber: '3011',
+        productionMeter: true
+      },
+      {
+        projectId: 3,
+        customerName: 'Ruhama',
+        address1: '125 Street ABC',
+        address2: 'Silver Spring , MD',
+        date: '43059',
+        preparedBy: 'AAA',
+        jobNumber: '3012',
+        productionMeter: true
+      }
+    ],
   "profile": {
     "name": "typicode"
   }
