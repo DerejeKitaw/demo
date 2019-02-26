@@ -66,14 +66,14 @@
   ],
   "users": [
     {
-      "userId": 0,
+      "id": 0,
       "isActive": true,
       "balance": "$3,993.92",
       "title": "cillum Lorem consequat voluptate ipsum",
       "body": "Nulla in voluptate do tempor adipisicing esse veniam. Duis tempor adipisicing magna in esse ad consectetur duis proident adipisicing excepteur. Non mollit id voluptate adipisicing reprehenderit ad mollit adipisicing nisi sit commodo est. Et tempor enim incididunt non ipsum nisi velit duis. Irure ad anim sunt commodo."
     },
     {
-      "userId": 1,
+      "id": 1,
       "isActive": false,
       "balance": "$3,554.89",
       "title": "nostrud ullamco veniam eu sunt",
