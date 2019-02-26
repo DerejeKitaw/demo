@@ -1,0 +1,109 @@
+{
+  "posts": [
+    {
+      "userId": 0,
+      "isActive": true,
+      "balance": "$3,993.92",
+      "title": "cillum Lorem consequat voluptate ipsum",
+      "body": "Nulla in voluptate do tempor adipisicing esse veniam. Duis tempor adipisicing magna in esse ad consectetur duis proident adipisicing excepteur. Non mollit id voluptate adipisicing reprehenderit ad mollit adipisicing nisi sit commodo est. Et tempor enim incididunt non ipsum nisi velit duis. Irure ad anim sunt commodo."
+    },
+    {
+      "userId": 1,
+      "isActive": false,
+      "balance": "$3,554.89",
+      "title": "nostrud ullamco veniam eu sunt",
+      "body": "Anim sit qui dolore deserunt non sunt ut nisi occaecat laboris. Exercitation aliqua nisi sint commodo et cupidatat voluptate proident dolore eu id excepteur laboris. Amet consequat in non sunt. Consequat tempor qui cupidatat quis id do commodo id id. Magna do elit cillum labore esse magna nulla adipisicing voluptate ex laborum. Irure sint quis id ipsum quis id veniam ullamco quis Lorem in."
+    },
+    {
+      "userId": 2,
+      "isActive": false,
+      "balance": "$2,080.79",
+      "title": "ullamco pariatur Lorem minim excepteur",
+      "body": "Anim Lorem deserunt pariatur fugiat ex dolore qui reprehenderit nisi. Cillum dolor nostrud sint officia aliqua consequat fugiat magna non irure tempor reprehenderit. Sit aute laborum voluptate nulla labore in nostrud duis."
+    },
+    {
+      "userId": 3,
+      "isActive": false,
+      "balance": "$1,544.97",
+      "title": "irure laborum exercitation mollit minim",
+      "body": "Amet nostrud dolor aute amet voluptate eiusmod sit exercitation. Eu mollit veniam officia laborum proident aliqua excepteur minim dolor ea dolor dolore adipisicing esse. Minim reprehenderit esse ut fugiat velit labore est laboris esse Lorem. Sit dolore qui commodo reprehenderit ex. Sint sunt sunt commodo do irure eiusmod culpa pariatur est ipsum incididunt magna occaecat labore. Ullamco aliqua do dolore mollit adipisicing Lorem proident cillum laboris anim. Reprehenderit veniam anim sunt quis qui velit culpa in deserunt id aute voluptate."
+    },
+    {
+      "userId": 4,
+      "isActive": true,
+      "balance": "$1,253.30",
+      "title": "sunt sunt ea magna non",
+      "body": "Commodo aute duis enim enim. Commodo cupidatat consectetur tempor consequat eiusmod laborum eu quis amet culpa exercitation non. Deserunt tempor non reprehenderit ut labore ex non ipsum eiusmod officia eu."
+    },
+    {
+      "userId": 5,
+      "isActive": false,
+      "balance": "$2,979.88",
+      "title": "mollit labore incididunt velit ea",
+      "body": "Id ex qui mollit nostrud dolor sunt quis quis officia pariatur duis esse incididunt laborum. Velit culpa ipsum et id aliqua ullamco consectetur eiusmod ad et minim excepteur. Non aliquip elit ut magna."
+    },
+    {
+      "userId": 6,
+      "isActive": false,
+      "balance": "$3,915.66",
+      "title": "do irure incididunt id magna",
+      "body": "Ullamco labore culpa quis incididunt tempor duis anim adipisicing cillum. Enim in culpa incididunt consectetur est velit ut esse ipsum. Aliquip qui enim aliquip eu ullamco. Laborum aliquip irure labore pariatur pariatur nulla ea incididunt quis consequat laborum. Anim amet nostrud sint ea ullamco quis exercitation Lorem culpa aliqua."
+    },
+    {
+      "userId": 7,
+      "isActive": true,
+      "balance": "$3,660.26",
+      "title": "adipisicing sunt elit reprehenderit ad",
+      "body": "Commodo sunt id laboris cupidatat deserunt magna. Aliqua anim nostrud adipisicing do occaecat nulla culpa adipisicing Lorem occaecat labore commodo laboris duis. Occaecat sunt nisi elit mollit et. Amet officia culpa dolore pariatur sint pariatur deserunt cillum veniam consequat ad exercitation."
+    },
+    {
+      "userId": 8,
+      "isActive": true,
+      "balance": "$3,959.31",
+      "title": "laboris et in aliqua pariatur",
+      "body": "Adipisicing minim ex quis sunt duis exercitation qui. Sint in non do Lorem. Nisi elit ea eiusmod do ullamco laborum id sunt voluptate esse. In eiusmod voluptate pariatur labore est officia ex irure. Labore voluptate ad elit magna pariatur laboris enim. Labore fugiat aliquip dolor do tempor in qui cupidatat magna. Est reprehenderit eiusmod adipisicing reprehenderit laboris sint non consectetur qui adipisicing duis officia veniam."
+    },
+    {
+      "userId": 9,
+      "isActive": true,
+      "balance": "$3,224.22",
+      "title": "laborum voluptate enim consequat exercitation",
+      "body": "Commodo Lorem culpa ad excepteur consequat proident ullamco esse. Lorem duis magna cillum dolor eiusmod fugiat ut qui incididunt. Aute officia cupidatat commodo et laborum elit anim. Ut est officia mollit minim sint cupidatat."
+    }
+  ],
+  "projects": [
+    {
+      "projectId": 1,
+      "customerName": "Dereje",
+      "address1": "123 Street ABC",
+      "address2": "Silver Spring , MD",
+      "date": "43059",
+      "preparedBy": "DTK",
+      "jobNumber": "3010",
+      "productionMeter": true
+    },
+    {
+      "projectId": 2,
+      "customerName": "Winta",
+      "address1": "124 Street ABC",
+      "address2": "Silver Spring , MD",
+      "date": "43059",
+      "preparedBy": "AAA",
+      "jobNumber": "3011",
+      "productionMeter": true
+    },
+    {
+      "projectId": 3,
+      "customerName": "Ruhama",
+      "address1": "125 Street ABC",
+      "address2": "Silver Spring , MD",
+      "date": "43059",
+      "preparedBy": "AAA",
+      "jobNumber": "3012",
+      "productionMeter": true
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
